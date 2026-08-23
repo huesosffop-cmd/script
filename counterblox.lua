@@ -17,7 +17,7 @@ end)
 ----------------------------------------------------
 -- ВПИШИ СВОЙ СОБСТВЕННЫЙ КЛЮЧ ЗДЕСЬ 👇
 ----------------------------------------------------
-local correctKey = "MY-SECRET-KEY-2026" 
+local correctKey = "7HGN-8992-HJGD-LPDD" 
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "PremiumMenu"
