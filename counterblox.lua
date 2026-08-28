@@ -17,7 +17,7 @@ end)
 ----------------------------------------------------
 -- ВПИШИ СВОЙ СОБСТВЕННЫЙ КЛЮЧ ЗДЕСЬ 👇
 ----------------------------------------------------
-local correctKey = "7HGN-8992-HJGD-LPDD" 
+local correctKey = "9HGN-2342-HJGD-LPCD" 
 
 local screenGui = Instance.new("ScreenGui")
 screenGui.Name = "PremiumMenu"
